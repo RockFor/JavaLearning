@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872300c8-5f28-4efb-942c-50ff7564616a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AccessTest.java" afterPath="$PROJECT_DIR$/src/AccessTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaLearning.iws" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="AccessTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AccessTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3344519" vertical-offset="0" max-vertical-offset="894">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.43736017" vertical-offset="0" max-vertical-offset="894">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding>
                 <element signature="e#253#254#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
@@ -296,7 +297,11 @@
       <created>1411190562517</created>
       <updated>1411190562517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit from Idea Jetbrains IDE">
+      <created>1411192147330</created>
+      <updated>1411192147330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -344,7 +349,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="First commit from Idea Jetbrains IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit from Idea Jetbrains IDE" />
+    <MESSAGE value="Second commit from Idea Jetbrains IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit from Idea Jetbrains IDE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -365,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AccessTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3344519" vertical-offset="0" max-vertical-offset="894">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.43736017" vertical-offset="0" max-vertical-offset="894">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
             <element signature="e#253#254#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />

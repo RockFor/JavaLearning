@@ -13,6 +13,10 @@ class Test2 {
     int getc() {
         return c;   // Get c variable
     }
+    class Inner {
+        int a;
+        int b;
+    }
 }
 public class AccessTest {
     public static void main(String[] args) {
